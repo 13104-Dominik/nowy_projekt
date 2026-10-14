@@ -1,2 +1,4 @@
 # Projekt testowy
-Wersja 1.0 - pierwsza wersja projektu
+
+Wersja 1.0 - zmiana z gałęzi głównej
+
